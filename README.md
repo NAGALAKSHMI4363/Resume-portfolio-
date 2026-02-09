@@ -36,4 +36,10 @@ Each project represents my **continuous learning journey** and practical skill d
 
 ---
 
-## 🎯 Career Object
+## 🎯 Career Objective
+To start my career as a **Data Analyst**, continuously improve my technical and analytical skills, and deliver data-driven insights that support better business decisions.
+
+---
+
+📬 **Connect with me**  
+If you find this repository useful or interesting, feel free to ⭐ star it and follow my journey.
